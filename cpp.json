@@ -1,0 +1,19 @@
+{
+	"c++": {
+		"prefix": "c++",
+		"body": [
+		  "#include <iostream>",
+		  "#include <cmath>",
+		  "#include <string>",
+		  "",
+		  "using namespace std;",
+		  "",
+		  "int main()",
+		  "{",
+		  "  ",
+		  "}",
+		  ""
+		],
+		"description": "c++"
+	  }
+}
